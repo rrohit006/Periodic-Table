@@ -1,2 +1,2 @@
 # Periodic-Table
-This is periodic table making project using C programming (Code::Blocks)
+This is **Computer Programming (EEE105)** course Project
