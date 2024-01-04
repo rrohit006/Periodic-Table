@@ -1,2 +1,2 @@
 # Periodic-Table
-This is **Computer Programming (EEE105)** course Project
+This is **"Computer Programming (EEE105)"** course Project
