@@ -1,2 +1,2 @@
 # Periodic-Table
-Periodic Table using C programming
+This is periodic table making project using C programming (Code::Blocks)
